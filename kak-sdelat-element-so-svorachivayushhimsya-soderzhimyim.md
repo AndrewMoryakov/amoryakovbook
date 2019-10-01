@@ -1,0 +1,1 @@
+<script async="" src="//jsfiddle.net/Andrew_Moryakov/v1dh8hkc/embed/js,html,css,result/dark/"></script>

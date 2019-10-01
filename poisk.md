@@ -1,0 +1,1 @@
+\[\[!SimpleSearch? &includeTVs=`1` &processTVs=`1` &containerTpl=`search\_container` &tpl=`search\_tpl` \]\]
